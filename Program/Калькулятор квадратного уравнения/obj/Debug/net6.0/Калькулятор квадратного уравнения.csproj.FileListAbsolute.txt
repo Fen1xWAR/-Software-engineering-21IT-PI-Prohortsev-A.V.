@@ -1,0 +1,14 @@
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\bin\Debug\net6.0\Калькулятор квадратного уравнения.exe
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\bin\Debug\net6.0\Калькулятор квадратного уравнения.deps.json
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\bin\Debug\net6.0\Калькулятор квадратного уравнения.runtimeconfig.json
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\bin\Debug\net6.0\Калькулятор квадратного уравнения.dll
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\bin\Debug\net6.0\Калькулятор квадратного уравнения.pdb
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.AssemblyInfoInputs.cache
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.AssemblyInfo.cs
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.csproj.CoreCompileInputs.cache
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.dll
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\refint\Калькулятор квадратного уравнения.dll
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.pdb
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\Калькулятор квадратного уравнения.genruntimeconfig.cache
+C:\Users\proan\RiderProjects\Program\Калькулятор квадратного уравнения\obj\Debug\net6.0\ref\Калькулятор квадратного уравнения.dll

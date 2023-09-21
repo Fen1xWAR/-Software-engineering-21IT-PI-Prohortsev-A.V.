@@ -1,0 +1,15 @@
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/bin/Debug/net6.0/Test
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/bin/Debug/net6.0/Test.deps.json
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/bin/Debug/net6.0/Test.runtimeconfig.json
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/bin/Debug/net6.0/Test.dll
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/bin/Debug/net6.0/Test.pdb
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.AssemblyInfoInputs.cache
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.AssemblyInfo.cs
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.csproj.CoreCompileInputs.cache
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.dll
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/refint/Test.dll
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.pdb
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/Test.genruntimeconfig.cache
+/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Test/Test/obj/Debug/net6.0/ref/Test.dll
