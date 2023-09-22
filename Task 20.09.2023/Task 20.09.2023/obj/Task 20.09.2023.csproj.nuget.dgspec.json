@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/Task 20.09.2023.csproj": {}
+    "C:\\Users\\proan\\OneDrive\\Рабочий стол\\kl\\Task 20.09.2023\\Task 20.09.2023\\Task 20.09.2023.csproj": {}
   },
   "projects": {
-    "/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/Task 20.09.2023.csproj": {
+    "C:\\Users\\proan\\OneDrive\\Рабочий стол\\kl\\Task 20.09.2023\\Task 20.09.2023\\Task 20.09.2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/Task 20.09.2023.csproj",
+        "projectUniqueName": "C:\\Users\\proan\\OneDrive\\Рабочий стол\\kl\\Task 20.09.2023\\Task 20.09.2023\\Task 20.09.2023.csproj",
         "projectName": "Task 20.09.2023",
-        "projectPath": "/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/Task 20.09.2023.csproj",
-        "packagesPath": "/Users/fenix/.nuget/packages/",
-        "outputPath": "/Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/obj/",
+        "projectPath": "C:\\Users\\proan\\OneDrive\\Рабочий стол\\kl\\Task 20.09.2023\\Task 20.09.2023\\Task 20.09.2023.csproj",
+        "packagesPath": "C:\\Users\\proan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\proan\\OneDrive\\Рабочий стол\\kl\\Task 20.09.2023\\Task 20.09.2023\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/fenix/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\proan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

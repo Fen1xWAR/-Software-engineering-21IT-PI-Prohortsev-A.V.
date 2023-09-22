@@ -7,7 +7,7 @@ namespace Task_20._09._2023;
 public abstract class ItemBase
 {
     public decimal Price { get; set; }
-    public string Manufacter { get; set; }
+    public string Manufacturer { get; set; }
 }
 
 public class Copybook : ItemBase
@@ -15,10 +15,10 @@ public class Copybook : ItemBase
     public string LineType { get; set; }
     public int ListCount { get; set; }
 
-    public Copybook(decimal price, string manufacter, string lineType, int listCount)
+    public Copybook(decimal price, string manufacturer, string lineType, int listCount)
     {
         Price = price;
-        Manufacter = manufacter;
+        Manufacturer = manufacturer;
         LineType = lineType;
         ListCount = listCount;
     }
@@ -43,10 +43,10 @@ public class GelPen : WrittingDevicesBase, IChangebleLineHeight
     public byte GelWight { get; set; }
     public float LineHeight { get; set; }
 
-    public GelPen(decimal price, string manufacter, string lineColor, byte gelWight,float lineHeight)
+    public GelPen(decimal price, string manufacturer, string lineColor, byte gelWight,float lineHeight)
     {
         Price = price;
-        Manufacter = manufacter;
+        Manufacturer = manufacturer;
         LineColor = lineColor;
         GelWight = gelWight;
         LineHeight = lineHeight;
@@ -64,10 +64,10 @@ public class Pensil : WrittingDevicesBase
     public string Hardness { get; set; }
     public float Width { get; set; }
 
-    public Pensil(decimal price, string manufacter, string lineColor, string hardness, float width)
+    public Pensil(decimal price, string manufacturer, string lineColor, string hardness, float width)
     {
         Price = price;
-        Manufacter = manufacter;
+        Manufacturer =manufacturer;
         LineColor = lineColor;
         Hardness = hardness;
         Width = width;

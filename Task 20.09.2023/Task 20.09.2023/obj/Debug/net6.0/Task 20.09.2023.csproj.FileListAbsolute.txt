@@ -13,3 +13,33 @@
 /Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/obj/Debug/net6.0/Task 20.09.2023.pdb
 /Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/obj/Debug/net6.0/Task 20.09.2023.genruntimeconfig.cache
 /Users/fenix/Developer/C#/-Software-engineering-21IT-PI-Prohortsev-A.V./Task 20.09.2023/Task 20.09.2023/obj/Debug/net6.0/ref/Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.exe
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.deps.json
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.runtimeconfig.json
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.pdb
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.csproj.AssemblyReference.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.AssemblyInfoInputs.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.AssemblyInfo.cs
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.csproj.CoreCompileInputs.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\refint\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.pdb
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.genruntimeconfig.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl;\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\ref\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.exe
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.deps.json
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.runtimeconfig.json
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\bin\Debug\net6.0\Task 20.09.2023.pdb
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.csproj.AssemblyReference.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.AssemblyInfoInputs.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.AssemblyInfo.cs
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.csproj.CoreCompileInputs.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\refint\Task 20.09.2023.dll
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.pdb
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\Task 20.09.2023.genruntimeconfig.cache
+C:\Users\proan\OneDrive\Рабочий стол\kl\Task 20.09.2023\Task 20.09.2023\obj\Debug\net6.0\ref\Task 20.09.2023.dll
