@@ -6,7 +6,7 @@ internal abstract class Program
     static void Main(string[] args)
     {
         var header = new Layout("Создать заголовок",200);
-        var burgerMenu = new Design("Задезайнить меню", 100);
+        var burgerMenu = new Design("Сделать дизайн меню", 100); 
         var site = new WebSite<TaskBase>();
         site.Tasklist.Add(header);
         site.Tasklist.Add(burgerMenu);

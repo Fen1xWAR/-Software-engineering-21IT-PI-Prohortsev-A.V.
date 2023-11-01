@@ -13,11 +13,7 @@ public class WebSite<T> where T : TaskBase
     {
         var builder = new StringBuilder();
         builder.Append("По сайту сделаны следующие задачи: ");
-        foreach (var el in this.Tasklist)
-        {
-           
-            builder.Append($" {el.TaskName}, ");
-        }
+        Tasklist.ForEach(el=> builder.Append($"{el.TaskName}, "));
         Console.WriteLine(builder);
         
     }
