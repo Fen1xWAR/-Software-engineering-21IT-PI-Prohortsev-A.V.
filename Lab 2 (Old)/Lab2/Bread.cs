@@ -1,4 +1,6 @@
-namespace Lab2;
+using Lab2;
+
+namespace ConsoleApp1;
 
 public class Bread : ProductBase
 {

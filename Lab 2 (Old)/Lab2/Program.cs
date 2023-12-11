@@ -1,4 +1,6 @@
-﻿namespace Lab2;
+using ConsoleApp1;
+
+namespace Lab2;
 
 internal abstract class Program
 {
